@@ -2,7 +2,7 @@
 	"name": "曲線整正 移動量算出システム",
 	"short_name": "曲線整正",
 	"description": "鉄道曲線の測定正矢から整正正矢・移動量を算出するツール",
-	"start_url": "./曲線整正_完成版.html",
+	"start_url": "./index.html",
 	"scope": "./",
 	"display": "standalone",
 	"orientation": "any",
